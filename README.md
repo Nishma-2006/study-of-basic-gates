@@ -64,6 +64,10 @@ Y= A⊕B
 
 **PROGRAM**
 ```
+Developed by:Nishma Sherin.K
+RegisterNumber: 24002101
+```
+```
 module exp1(a,b,f1,f2,f3,f4,f5,f6,f7);
 input a,b;
 output f1,f2,f3,f4,f5,f6,f7;
@@ -77,8 +81,8 @@ assign f7=~(a^b);
 endmodule
 ```
 
- Developed by: RegisterNumber: 
- 
+Developed by: RegisterNumber: 
+  
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-10-29 at 10 24 49 AM](https://github.com/user-attachments/assets/1feb0ef1-e59d-457c-8caa-8bcb13f8161c)
 
@@ -87,7 +91,9 @@ endmodule
 
 
 **RTL**
+![Screenshot (2)](https://github.com/user-attachments/assets/c196ba86-0830-4d45-b1f3-5c16e8eea6fc)
 
 **Result:**
+thus,the basic logical gates are verified and the truth table studied.
 
 
